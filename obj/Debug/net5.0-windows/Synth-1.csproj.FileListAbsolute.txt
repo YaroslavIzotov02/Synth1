@@ -1,0 +1,60 @@
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.csproj.AssemblyReference.cache
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\App.g.cs
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1_MarkupCompile.cache
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1_MarkupCompile.lref
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.exe
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.deps.json
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.runtimeconfig.json
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.runtimeconfig.dev.json
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\ref\Synth-1.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.pdb
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Asio.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Core.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Midi.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+D:\User\repos\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\MainWindow.baml
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.g.resources
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.AssemblyInfoInputs.cache
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.AssemblyInfo.cs
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.csproj.CoreCompileInputs.cache
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.csproj.CopyComplete
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.dll
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\ref\Synth-1.dll
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.pdb
+D:\User\repos\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.genruntimeconfig.cache
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\ref\Synth-1.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.pdb
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.exe
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.deps.json
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.runtimeconfig.json
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.runtimeconfig.dev.json
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\Synth-1.pdb
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Asio.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Core.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Midi.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.csproj.AssemblyReference.cache
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\App.g.cs
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1_MarkupCompile.cache
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1_MarkupCompile.lref
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.g.resources
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.AssemblyInfoInputs.cache
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.AssemblyInfo.cs
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.csproj.CoreCompileInputs.cache
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.csproj.CopyComplete
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\refint\Synth-1.dll
+D:\3-Курс Проектирование\Synth-1\Synth-1\obj\Debug\net5.0-windows\Synth-1.genruntimeconfig.cache
